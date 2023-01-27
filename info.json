@@ -1,0 +1,144 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://limbopro.com/btsearch.html",
+            "path": "limbopro.com/btsearch.html",
+            "saved": true,
+            "size": 11797,
+            "children": [
+                {
+                    "url": "https://limbopro.com/SearchX.png",
+                    "path": "limbopro.com/SearchX.png",
+                    "saved": true,
+                    "size": 418281
+                },
+                {
+                    "url": "https://limbopro.com/usr/uploads/2022/10/3937226433.png",
+                    "saved": false
+                },
+                {
+                    "url": "https://limbopro.com/all.js",
+                    "path": "limbopro.com/all.js",
+                    "saved": true,
+                    "size": 914263
+                },
+                {
+                    "url": "https://www.googletagmanager.com/gtag/js?id=UA-162070065-1",
+                    "saved": false
+                },
+                {
+                    "url": "https://limbopro.com/js/vue.min.js",
+                    "path": "limbopro.com/js/vue.min.js",
+                    "saved": true,
+                    "size": 81631
+                },
+                {
+                    "url": "https://limbopro.com/js/element.min.js",
+                    "path": "limbopro.com/js/element.min.js",
+                    "saved": true,
+                    "size": 496498
+                },
+                {
+                    "url": "https://platform.twitter.com/widgets.js",
+                    "path": "platform.twitter.com/widgets.js",
+                    "saved": true,
+                    "size": 93239
+                },
+                {
+                    "url": "https://limbopro.com/bulma.min.css",
+                    "path": "limbopro.com/bulma.min.css",
+                    "saved": true,
+                    "size": 158779
+                },
+                {
+                    "url": "https://limbopro.com/css/element.min.css",
+                    "path": "limbopro.com/css/element.min.css",
+                    "saved": true,
+                    "size": 188858,
+                    "children": [
+                        {
+                            "url": "https://limbopro.com/css/fonts/element-icons.woff?t=1510834658947",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://limbopro.com/css/fonts/element-icons.ttf?t=1510834658947",
+                            "path": "limbopro.com/css/fonts/element-icons.ttf",
+                            "saved": true,
+                            "size": 11040
+                        }
+                    ]
+                },
+                {
+                    "url": "https://limbopro.com/usr/uploads/2020/03/3586959284.jpg",
+                    "path": "limbopro.com/usr/uploads/2020/03/3586959284.jpg",
+                    "saved": true,
+                    "size": 405590
+                }
+            ]
+        }
+    ],
+    "alias": "limbopro-com-nmjtqcvs",
+    "info": {
+        "remark": [],
+        "title": "番号搜索 - 毒奶博主的万能搜索引擎。",
+        "domain": "limbopro.com",
+        "origin": "https://limbopro.com",
+        "ip": "172.67.128.185",
+        "main": "limbopro.com/btsearch.html",
+        "url": "https://limbopro.com/btsearch.html",
+        "totalSize": "2.78 MB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://limbopro.com/btsearch.html#gsc.tab=0",
+                "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12D508 Safari/600.1.4",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://limbopro.com/btsearch.html",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Fri, 27 Jan 2023 19:19:55 GMT",
+                "content-type": "text/html; charset=utf-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "last-modified": "Wed, 04 Jan 2023 06:48:16 GMT",
+                "vary": "Accept-Encoding",
+                "cache-control": "no-cache",
+                "cf-cache-status": "DYNAMIC",
+                "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=Lq0N1684R5kszFQTu5skrBCgp2df2engzcHPFoXybU3Yf9r%2F1vEJ8zb%2Bhd1t%2B0Gyqx1lPtgpc%2BKKItInnNZJrCLGtNni8AWi%2BY5ZNxVahqcOSHjBU0myFvQ6EHLrA2c%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "server": "cloudflare",
+                "cf-ray": "7903d7beea82f63d-NRT",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        },
+        "time": {
+            "start": "2023-01-27T19:19:55.903Z",
+            "end": "2023-01-27T19:20:00.953Z"
+        }
+    },
+    "options": {
+        "url": "https://limbopro.com/btsearch.html#gsc.tab=0",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12D508 Safari/600.1.4",
+        "formatter": [
+            "js",
+            "saveOriginal"
+        ],
+        "filenameGenerator": "bySiteStructure"
+    }
+}
